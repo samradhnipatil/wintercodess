@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720761999636",
+    "project_id": "p-indi",
+    "storage_bucket": "p-indi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720761999636:android:df53fc1a2d0136e4d0f201",
+        "android_client_info": {
+          "package_name": "com.parkme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720761999636-kitdcv7smmqkjs9gafl4dl971cs81hdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV1pisc5k9nRXLqgM2jQddbdqCLYCKlEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720761999636-kitdcv7smmqkjs9gafl4dl971cs81hdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
